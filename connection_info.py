@@ -1,3 +1,5 @@
+# Template for customizing to your environment
+
 host_names = ['hostgen','host001','host002']
 instance_suffix = "-psql-001.postgres.database.azure.com"
 prod_instance_prefix = "r29p-"
